@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "reactHrms",
+    "style": "less",
+    "postcss": false
+  }
+}
